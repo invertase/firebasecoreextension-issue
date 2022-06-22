@@ -7,6 +7,9 @@
 
 #import "AppDelegate.h"
 
+// This won't be available without "Firebase/Storage" pod
+#import <FirebaseCoreExtension/FIRAppInternal.h>
+
 @interface AppDelegate ()
 
 @end
