@@ -1,6 +1,0 @@
-framework module Pods_reproduction_no_extension {
-  umbrella header "Pods-reproduction.no.extension-umbrella.h"
-
-  export *
-  module * { export * }
-}
