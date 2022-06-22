@@ -7,6 +7,6 @@ target 'reproduction.no.extension' do
 
   # Pods for reproduction.no.extension
   pod 'Firebase/Core', '~> 9.2.0'
-  # add/remove to see header appear/disappear
+  # add/remove below noted pod to see header appear/disappear
   pod 'Firebase/Storage', '~> 9.2.0'
 end
